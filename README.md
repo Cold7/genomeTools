@@ -1,2 +1,2 @@
 # gffTools
-A collection of python scripts to work with gff3 files
+A collection of python scripts to work with fasta, bed and gff3 files
